@@ -11,7 +11,7 @@ def gerar_vizinhos(estado, capacidades):
         if estado[i] < capacidades[i]:
             novo = list(estado)
             novo[i] = capacidades[i]
-            vizinhos.append(tuple(novo))
+            vizinhos.append(tuple(novo)) 
 
         # Esvaziar o vaso i
         if estado[i] > 0:
