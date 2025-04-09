@@ -106,4 +106,4 @@ O programa gera um grafo visual destacando o caminho da solução em vermelho. O
 
 ## 🧑‍💻 Autor
 
-Desenvolvido por [Seu Nome].
+Desenvolvido por Mateu e Maria.
